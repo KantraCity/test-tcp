@@ -1,0 +1,38 @@
+{
+  "query": "Перегородка",
+  "response": {
+    "found_items": [
+      {
+        "name": "Перегородка SEP (3000мм)",
+        "quantity": 1,
+        "price": 59050,
+        "subtotal": 59050
+      },
+      {
+        "name": "Огнестойкая перегородка DV",
+        "quantity": 1,
+        "price": 44627,
+        "subtotal": 44627
+      },
+      {
+        "name": "Перегородка SEP (3000мм) DKC арт. UKS36500HDZ",
+        "quantity": 1,
+        "price": 73671,
+        "subtotal": 73671
+      },
+      {
+        "name": "Перегородка SEP (3000 мм) DKC арт. UKS36500HDZ или аналог",
+        "quantity": 1,
+        "price": 36531,
+        "subtotal": 36531
+      },
+      {
+        "name": "Огнестойкая перегородка DD1010 DKC арт. DD1010 или аналог",
+        "quantity": 1,
+        "price": 13816,
+        "subtotal": 13816
+      }
+    ],
+    "total_cost": 227695
+  }
+}
